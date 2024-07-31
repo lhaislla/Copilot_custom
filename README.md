@@ -1,7 +1,6 @@
 # Copilot_custom - Projeto do Bootcamp  da DIO Microsoft Copilot AI
-# Projeto de Reconhecimento de Texto em Imagens com Microsoft Copilot
-
-Este projeto demonstra o uso do Microsoft Copilot para realizar o reconhecimento de texto em imagens. O objetivo é extrair e processar texto a partir de imagens fornecidas.
+ - Projeto de Reconhecimento de Texto em Imagens com Microsoft Copilot
+ - Este projeto demonstra o uso do Microsoft Copilot para realizar o reconhecimento de texto em imagens. O objetivo é extrair e processar texto a partir de imagens fornecidas.
 
 ## Estrutura do Repositório
 
@@ -28,12 +27,6 @@ Este projeto demonstra o uso do Microsoft Copilot para realizar o reconhecimento
 Desenhe uma mulher   com cabelos cacheados que caem sobre os ombros e o peito. Ela está vestindo uma jaqueta jeans de capuz para baixo  com uma peça listrada visível por baixo, colar prata, batom vermelho, olhos castanhos, calça preta e all star. Modelo de desenho da hora da aventura.Pele negra clara, magra.
 
 ![Imagem 5](output/5.jpg)
-
-### Imagem 8
 ![Imagem 8](output/8.jpg)
-
-### Imagem 12
 ![Imagem 12](output/12.jpg)
-
-### Imagem 14
 ![Imagem 14](output/14.jpg)
